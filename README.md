@@ -5,3 +5,7 @@ First of all we have to download data of songs from the playlist that we want to
 * sss: ss
 * aaa: aa
 * bbb: bb
+
+## 2. Data enrichment and model
+
+## 3. Create the new playlist
