@@ -9,6 +9,7 @@
 * [ ] Automatic PCA
 * [ ] Automatic K-selection
 * [ ] Select Features
+* [ ] How to deal with outliers
 * [ ] Implement Sorting by simylariti
 * [ ] Add a songs recommender for the playlist
 * [ ] Implement 
